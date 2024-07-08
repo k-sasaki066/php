@@ -1,0 +1,23 @@
+<?php
+echo "こんにちは";
+$nam = 100;
+$nam = 200;
+echo $nam;
+$item = "javascript";
+echo $item;
+const AGE = 20;
+const HELLO = "こんにちは";
+echo AGE;
+echo HELLO;
+$name = "Tanaka";
+$last_name = "Yamada";
+$first_name = "Saburo";
+echo "<br>";
+echo $name."Jiro";
+echo "<br>";
+echo $last_name.$first_name;
+echo "<br>";
+echo "こんにちは、{$name}さん";
+echo "<br>";
+$age = 20;
+echo ++$age;
